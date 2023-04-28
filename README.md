@@ -1,1 +1,1 @@
-![Top Repos](https://github-ranked-6pvr62jsk9mg.deno.dev/api/generate?name=olexg)
+![Top Repos](https://github-ranked-bzd3dmem6qa0.deno.dev/api/generate?name=olexg)
